@@ -1,0 +1,1 @@
+# globle-scope-c-.c
